@@ -7,6 +7,11 @@
 Este projeto é uma criação de um blog opinativo sobre livros, intitulado <b>Daily Reads</b>, desenvolvido como parte de uma atividade diagnóstica da disciplina Web Design, sob orientação do professor Luis Araújo.
 O objetivo principal é compreender e aplicar conceitos modernos de desenvolvimento web responsivo, estruturação semântica de HTML e estilização com CSS, adaptando a interface tanto para telas grandes quanto telas pequenas (responsividade).
 
+<div align="center">
+  <img src="assets/img/Tela%20Grande.PNG" width="72%">
+  <img src="assets/img/Tela%20Pequena.png" width="20.3%">
+</div>
+
 ## ℹ️ Descrição do Projeto
 
 <b>Daily Reads</b> é um blog voltado ao debate de opiniões sobre livros, criado com o intuito de aplicar conhecimentos de desenvolvimento front-end com foco em responsividade. O projeto propõe uma interface agradável e funcional que se adapta a diferentes tamanhos de tela, desde desktops até dispositivos móveis. Durante o desenvolvimento, foram utilizados:
